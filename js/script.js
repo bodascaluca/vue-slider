@@ -45,7 +45,8 @@ const app = new Vue(
             currentSlide:"0",
 
                 methods:{
-                                }
+
+                }
         }
     },   
 );
